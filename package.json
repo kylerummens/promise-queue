@@ -1,0 +1,19 @@
+{
+  "name": "promise-queue",
+  "version": "1.0.0",
+  "description": "Run large lists of promises asynchronously with a queue",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch",
+    "build": "tsc"
+  },
+  "author": "Kyle Rummens",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kylerummens/promise-queue.git"
+  },
+  "devDependencies": {
+    "@types/node": "^20.1.3"
+  }
+}
